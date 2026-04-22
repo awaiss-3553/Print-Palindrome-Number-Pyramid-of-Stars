@@ -1,1 +1,1 @@
-# Print-Palindrome-Number-Pyramid-of-Stars
+Print Palindrome Number Pyramid of Stars.
